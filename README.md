@@ -10,19 +10,19 @@ Go to [https://noteable.edina.ac.uk/login](https://noteable.edina.ac.uk/login). 
 Choose *Language and Machine Learning* and click *Start* or *Reconnect*.
 
 <br/>
-<img src="assets/step_1.png" width="600" height="250">
+<img src="readme_assets/step_1.png" width="600" height="250">
 
 #### Step 2: 
 The Jupyter Notebook will open in the same window. On the top left click the last icon labelled *Git Clone*.
 <br/>
-<img src="assets/step_2.png" width="600" height="200">
+<img src="readme_assets/step_2.png" width="600" height="200">
 
 #### Step 3: 
 A small pop-up window will appear, as shown below. Enter the following text for the URI field:  
 https://git.ecdf.ed.ac.uk/anlp/ANLP_labs.git   
 If you get an error here (bottom right), it may be because you already have a folder with the same name in Noteable.  
 <br/>
-<img src="assets/step_3.png" width="500" height="200">
+<img src="readme_assets/step_3.png" width="500" height="200">
 
 <!-- #### Step 4: 
 In the next pop-up window enter your username (i.e. student number with "s") and the corresponding password. Now click *OK* to copy the labs into Noteable.   
@@ -33,9 +33,9 @@ In the next pop-up window enter your username (i.e. student number with "s") and
 #### Step 4: 
 Once the copying is complete, it will show the repository in a folder titled **ANLP_labs** along with its contents on the left.  
 <br/>
-<img src="assets/step_5.png" width="500" height="200">
+<img src="readme_assets/step_5.png" width="500" height="200">
 
 #### Step 6: 
 Each lab is a Jupyter notebook in its own folder. Double click the folder for the lab you want to work on, and then double click on the lab's `.ipynb` (Jupyter notebook) file to start working on it.
 <br/>
-<img src="assets/step_6.png" width="500" height="200">
+<img src="readme_assets/step_6.png" width="500" height="200">
