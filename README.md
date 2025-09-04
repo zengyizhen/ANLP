@@ -7,7 +7,7 @@ This repository contains the Jupyter notebooks for the ANLP labs. It also contai
 #### Step 1: 
 Go to [https://noteable.edina.ac.uk/login](https://noteable.edina.ac.uk/login). It might ask for your UUN and Password, if you are not logged into Euclid. After login, the following screen will be available with few options to start the server. Or if you have already logged in before it may ask you to reconnect or shutdown the previous server. You can also access it from the Learn course for ANLP
 
-Choose *Language and Machine Learning* and click *Start* or *Reconnect*.
+Choose *Language and Machine Learning* from the notebook server dropdown and click *Start* or *Reconnect*.
 
 <br/>
 <img src="readme_assets/step_1.png" width="600" height="250">
