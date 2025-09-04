@@ -36,9 +36,6 @@ Once the copying is complete, it will show the repository in a folder titled **A
 <img src="assets/step_5.png" width="500" height="200">
 
 #### Step 6: 
-Click to the `Labs` folder to find the available Jupyter Notebooks. You can then double click on the lab name to start working on it.  
+Each lab is a Jupyter notebook in its own folder. Double click the folder for the lab you want to work on, and then double click on the lab's `.ipynb` (Jupyter notebook) file to start working on it.
 <br/>
 <img src="assets/step_6.png" width="500" height="200">
-
-#### Extra:  
-Alternatively, you can create new folders on the left and manually upload your own Notebook files that you have downloaded to them. 
