@@ -31,11 +31,11 @@ In the next pop-up window enter your username (i.e. student number with "s") and
 <img src="assets/step_4.png" width="300" height="250"> -->
 
 #### Step 4: 
-Once the copying is complete, it will show the repository in a folder titled **ANLP_labs** along with its contents on the left.  
+Once the copying is complete, it will show the repository in a folder titled **ANLP_labs** on the left. Open this folder and you should see its contents. At the start of the course, only Lab 0 will be visible:
 <br/>
 <img src="readme_assets/step_5.png" width="500" height="200">
 
-#### Step 6: 
-Each lab is a Jupyter notebook in its own folder. Double click the folder for the lab you want to work on, and then double click on the lab's `.ipynb` (Jupyter notebook) file to start working on it.
+#### Step 5: 
+Each lab will be a Jupyter notebook in its own folder. Double click the folder for the lab you want to work on, and then double click on the lab's `.ipynb` (Jupyter notebook) file to start working on it.
 <br/>
 <img src="readme_assets/step_6.png" width="500" height="200">
