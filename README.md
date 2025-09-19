@@ -2,6 +2,19 @@
 #### Accelerated Natural Language Processing (INFR11125)
 This repository contains the Jupyter notebooks for the ANLP labs. It also contains instructions for how to get started. We recommend that you use Noteable to do the labs. 
 
+## Accessing Lab 1 and later labs
+
+### If you have already cloned the ANLP Labs folder (you have Lab 0)
+
+- Click the link under Step 1 below to log in to Noteable, and go to your ANLP Labs folder.
+- From the Noteable menu, click on **Git$\rightarrow$Pull from Remote**.
+- You should now see a `lab_1` (or later) subfolder in your labs folder, which will contain both the lab notebook and a solutions notebook.
+- Go into the subfolder for the lab you want and open the notebook.
+
+### If you have not yet cloned the ANLP folder
+
+- Follow the instructions for Getting Started below.
+
 ## Gettting Started: Using [Noteable](https://noteable.edina.ac.uk/login)
 
 #### Step 1: 
