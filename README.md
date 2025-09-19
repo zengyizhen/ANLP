@@ -4,9 +4,10 @@ This repository contains the Jupyter notebooks for the ANLP labs. It also contai
 
 ## Accessing Lab 1 and later labs
 
-### If you have already cloned the ANLP Labs folder (you have Lab 0)
+### If you have already cloned the ANLP Labs folder (i.e., you have Lab 0)
 
-- Click the link under Step 1 below to log in to Noteable, and go to your ANLP Labs folder.
+- [Log in to Noteable using this link](https://noteable.edina.ac.uk/login), and start the *Language and Machine Learning* server.
+- Once in Notable, go to that ANLP Labs folder that you cloned before.
 - From the Noteable menu, click on **Git$\rightarrow$Pull from Remote**.
 - You should now see a `lab_1` (or later) subfolder in your labs folder, which will contain both the lab notebook and a solutions notebook.
 - Go into the subfolder for the lab you want and open the notebook.

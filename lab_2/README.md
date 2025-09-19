@@ -1,1 +1,1 @@
-# Lab 2 is not available yet!
+# Lab 2 will become available in Week 3!
