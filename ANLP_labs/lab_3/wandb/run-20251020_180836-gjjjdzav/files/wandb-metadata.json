@@ -1,0 +1,25 @@
+{
+  "os": "Linux-5.15.0-134-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.11",
+  "startedAt": "2025-10-20T18:08:36.633045Z",
+  "program": "ANLP/ANLP_labs/lab_3/lab_3_seq2seq.ipynb",
+  "git": {
+    "commit": "4296c787eac157413ea8c7d6e6df48ba06b48301"
+  },
+  "email": "s2807348@ed.ac.uk",
+  "root": "/home/jovyan/ANLP/ANLP_labs/lab_3",
+  "host": "noteable",
+  "executable": "/opt/conda/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "527293480960",
+      "used": "403199361024"
+    }
+  },
+  "memory": {
+    "total": "50511900672"
+  },
+  "writerId": "s998r8mmqj1ki3s9npo153g1a4g2c4cm"
+}

@@ -1,0 +1,62 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            6heqix4htknhkm2pndfskcb9p79x4qkx:
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "527293480960"
+                        used: "403185549312"
+                email: s2807348@ed.ac.uk
+                executable: /opt/conda/bin/python
+                git:
+                    commit: 4296c787eac157413ea8c7d6e6df48ba06b48301
+                host: noteable
+                memory:
+                    total: "50511900672"
+                os: Linux-5.15.0-134-generic-x86_64-with-glibc2.39
+                program: ANLP/ANLP_labs/lab_3/lab_3_seq2seq.ipynb
+                python: CPython 3.12.11
+                root: /home/jovyan/ANLP/ANLP_labs/lab_3
+                startedAt: "2025-10-20T18:19:03.631815Z"
+                writerId: 6heqix4htknhkm2pndfskcb9p79x4qkx
+        m: []
+        python_version: 3.12.11
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 11
+                - 41
+                - 49
+                - 51
+                - 53
+                - 100
+                - 105
+            "2":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 11
+                - 41
+                - 49
+                - 51
+                - 53
+                - 100
+                - 105
+            "3":
+                - 1
+                - 2
+                - 13
+            "4": 3.12.11
+            "5": 0.22.2
+            "6": 4.53.3
+            "8":
+                - 1
+            "12": 0.22.2
+            "13": linux-x86_64
